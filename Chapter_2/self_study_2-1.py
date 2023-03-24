@@ -10,7 +10,6 @@ def screenLeftClick(x, y) :
     g = random.random()
     b = random.random()
 
-
     tSize = random.randrange(1, 10)
     turtle.shapesize(tSize)
 
