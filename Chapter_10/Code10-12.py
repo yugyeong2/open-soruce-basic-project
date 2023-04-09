@@ -1,7 +1,8 @@
 from tkinter import *
 from time import *
 
-fnameList = ["Bedtime_Bear.gif", "Cheer_Bear.gif", "Friend_Bear.gif", "Funshine_Bear.gif", "Good_Luck_Bear.gif", "Grumpy_Bear.gif", "Share_Bear.gif", "Tenderheart_Bear.gif", "Wish_Bear.gif"]
+fnameList = ["Bedtime_Bear.gif", "Cheer_Bear.gif", "Friend_Bear.gif", "Funshine_Bear.gif", "Good_Luck_Bear.gif",
+             "Grumpy_Bear.gif","Share_Bear.gif", "Tenderheart_Bear.gif", "Wish_Bear.gif"]
 photoList = [None] * 9
 num = 0
 
