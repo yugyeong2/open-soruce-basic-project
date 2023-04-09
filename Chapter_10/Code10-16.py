@@ -6,6 +6,6 @@ def keyEvent(event) :
 
 window = Tk()
 
-window.bind("<key>", keyEvent)
+window.bind("<Key>", keyEvent)
 
 window.mainloop()
