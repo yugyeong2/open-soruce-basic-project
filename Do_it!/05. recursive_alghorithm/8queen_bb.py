@@ -2,7 +2,7 @@ pos = [0] * 8
 flag = [False] * 8
 
 def put() -> None:
-    for i in range(8):
+     for i in range(8):
         print(f'{pos[i]:2}', end='')
     print()
 
