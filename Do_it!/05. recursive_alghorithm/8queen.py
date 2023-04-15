@@ -13,7 +13,7 @@ def set(i: int) -> None:
         if(     not flag_a[j]
             and not flag_b[i + j]
             and not flag_c[i - j + 7]):
-            pos[i] = j
+             pos[i] = j
             if i == 7:
                 put()
             else:
