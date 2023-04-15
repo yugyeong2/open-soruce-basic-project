@@ -1,7 +1,7 @@
-from fixed_stack import FixedStack
+from stack import Stack
 
 def recur(n: int) -> int:
-    s = FixedStack(n)
+    s = Stack(n)
 
     while True:
         if n > 0:
